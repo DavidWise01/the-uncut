@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1374
+slug  : the-uncut
+seal  : 37e1564a292df67349fb91c1d0562e04a68e585ec8f46e23d7fe30b5600518b9
+prev  : 624ff2a1b3bfd23ccfb48ac973113a7b8ce2322091d81bfd9aafae1af389f4bf
+link  : 6d051307b0adf9b56dfd0ac59609943548001f4098268b3d6cccc1d64b9037df
+head  : 41f029ee4eaa0042c67040dc5927434f8e8446341839c86b6a09d79c5fbf30da
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
